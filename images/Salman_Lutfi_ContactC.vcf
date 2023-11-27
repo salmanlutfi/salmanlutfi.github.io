@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Lutfi;Salman;;;
+FN: Salman Lutfi 
+ORG:Lutfi&Co Advocates and Legal Consultants;
+TITLE:Senior Partner
+EMAIL;type=INTERNET;type=WORK;type=pref:salman@lutfilaw.ae
+TEL;type=WORK;type=VOICE:+971 50 651 4088
+item1.ADR;type=WORK;type=pref:;;O-14 Tower, Al Abraj Street\nBusiness Bay\, Dubai UAE;;;;UAE
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.lutfico.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
